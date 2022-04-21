@@ -23,6 +23,7 @@ brew install --cask drawio
 
 # Nice to have
 echo Nice to have
+brew install --cask adobe-acrobat-reader
 brew install --cask anydesk
 brew install --cask rectangle
 brew install --cask the-unarchiver
