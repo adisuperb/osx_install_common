@@ -22,8 +22,8 @@ brew install --cask rectangle
 brew install --cask the-unarchiver
 brew install --cask appcleaner
 brew install --cask vlc
-brew install --cask microsoft-teams
 brew install --cask zoom
+brew install --cask microsoft-teams
 
 # cleanup
 rm -f -r /Library/Caches/Homebrew/*
